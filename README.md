@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![empd  (1)](https://github.com/user-attachments/assets/4ebe2101-acb7-4106-9856-ef87a6fd5ad3)
+
+
+### Name: A.HALIMA HARISHA
+### Register Number:212224040094
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
